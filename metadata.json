@@ -1,0 +1,6 @@
+{
+  "name": "Stillwater App",
+  "description": "Global meditation & mindfulness app landing page with interactive breathing guides, soundscapes, sleep stories, and app store download links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
